@@ -1,0 +1,12 @@
+streamlit
+os
+random
+string
+numpy
+librosa
+silero_vad
+yt_dlp
+pydub
+torch
+googletrans
+nemo
